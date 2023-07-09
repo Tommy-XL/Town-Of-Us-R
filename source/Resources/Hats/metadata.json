@@ -2964,6 +2964,231 @@
       "id": "standard0053",
       "name": "Starlight hat",
       "artist": "Little Doo Doo"
+    },
+    {
+      "id": "ArtistPNH",
+      "name": "ArtistPNH",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "ArtistPNH 2",
+      "name": "ArtistPNH 2",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "mic_artistrng",
+      "name": "mic_artistrng",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "mic_artistrng 1",
+      "name": "mic_artistrng 1",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "mic_artistrng 2",
+      "name": "mic_artistrng 2",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "RugaPNH",
+      "name": "RugaPNH",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "BigRugaPNH",
+      "name": "BigRugaPNH",
+      "artist": "ArtistRNG"
+    },
+    {
+      "id": "Footballbrown",
+      "name": "Footballbrown",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Naruto",
+      "name": "Naruto",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Kakashi",
+      "name": "Kakashi",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Sasuke",
+      "name": "Sasuke",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "MonsterMouth",
+      "name": "MonsterMouth",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "valkyrae",
+      "name": "valkyrae",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "parasite",
+      "name": "parasite",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Kratos_Skin",
+      "name": "Kratos_Skin",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Handcuffs",
+      "name": "Handcuffs",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "badtime",
+      "name": "badtime",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "tucan",
+      "name": "tucan",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "TimHorus",
+      "name": "TimHorus",
+      "artist": "A Tommy XL"
+    },
+    {
+      "id": "Ashoka",
+      "name": "ashoka",
+      "artist": "finargot"
+    },
+    {
+      "id": "Boba 1",
+      "name": "boba 1",
+      "artist": "finargot"
+    },
+    {
+      "id": "Boba 2",
+      "name": "boba 2",
+      "artist": "finargot"
+    },
+    {
+      "id": "baby yoda",
+      "name": "baby yoda",
+      "artist": "finargot"
+    },
+    {
+      "id": "Mando",
+      "name": "mando",
+      "artist": "finargot"
+    },
+    {
+      "id": "Trooper",
+      "name": "trooper",
+      "artist": "finargot"
+    },
+    {
+      "id": "Vader",
+      "name": "yoda",
+      "artist": "finargot"
+    },
+    {
+      "id": "Asta",
+      "name": "asta",
+      "artist": "finargot"
+    },
+    {
+      "id": "Demon 1",
+      "name": "demonasta 1",
+      "artist": "finargot"
+    },
+    {
+      "id": "Demon 2",
+      "name": "demon 2",
+      "artist": "finargot"
+    },
+    {
+      "id": "Gaben",
+      "name": "gabe",
+      "artist": "finargot"
+    },
+    {
+      "id": "finarpog",
+      "name": "finarpog",
+      "artist": "finargot"
+    },
+    {
+      "id": "Kira",
+      "name": "kira",
+      "artist": "finargot"
+    },
+    {
+      "id": "L",
+      "name": "L",
+      "artist": "finargot"
+    },
+    {
+      "id": "Pudge 2",
+      "name": "PG 2",
+      "artist": "finargot"
+    },
+    {
+      "id": "planc1",
+      "name": "planc",
+      "artist": "finargot"
+    },
+    {
+      "id": "ryuk",
+      "name": "ryuk",
+      "artist": "finargot"
+    },
+    {
+      "id": "Zoidberg",
+      "name": "zoid",
+      "artist": "finargot"
+    },
+    {
+      "id": "princess 1",
+      "name": "princess 1",
+      "artist": "finargot"
+    },
+    {
+      "id": "princess 2",
+      "name": "princess 2",
+      "artist": "finargot"
+    },
+    {
+      "id": "pudge 1",
+      "name": "pudge 1",
+      "artist": "finargot"
+    },
+    {
+      "id": "pudge 2",
+      "name": "pudge 2",
+      "artist": "finargot"
+    },
+    {
+      "id": "Terrorblade",
+      "name": "Terrorblade",
+      "artist": "finargot"
+    },
+    {
+      "id": "clown brain",
+      "name": "clown brain",
+      "artist": "finargot"
+    },
+    {
+      "id": "Clown Nose",
+      "name": "сlown nose",
+      "artist": "finargot"
+    },
+    {
+      "id": "Clown",
+      "name": "clown",
+      "artist": "finargot"
     }
   ]
 }
